@@ -1,1 +1,2 @@
+# Information Security and Computer Networks Laboratory 
 This course helped me develop the skills to implement and analyze the security of secret-key encryption schemes. I explored the properties of cryptographic hash functions and learned about key agreement protocols and Public Key Infrastructure (PKI). Additionally, I had the opportunity to conduct practical experiments to identify vulnerabilities in network protocols, which enhanced my understanding of how to secure communication systems.
